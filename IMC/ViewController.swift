@@ -52,6 +52,7 @@ class ViewController: UIViewController {
         lbResultado.text = result
         ivResultado.image = UIImage(named: image)
         viResultado.isHidden = false
+        
     }
 }
 
